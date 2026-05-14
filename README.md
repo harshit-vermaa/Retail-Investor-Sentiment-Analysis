@@ -29,30 +29,6 @@ Data was collected from **11 YouTube videos** — "where to invest" style guides
 
 ---
 
-## 📁 Project Structure
-
-    retail-investor-sentiment/
-    │
-    ├── Uk_Investing_Trend.ipynb        ← Main notebook (full pipeline)
-    ├── README.md                       ← This file
-    │
-    ├── data/
-    │   └── youtube_comments.csv        ← Cleaned collected dataset
-    │
-    └── visuals/
-        ├── asset_sentiment_heatmap.png
-        ├── investor_risk_profile.png
-        ├── sentiment_boxplot.png
-        ├── mean_sentiment_risk.png
-        ├── vader_vs_finbert.png
-        ├── finbert_risk_country.png
-        ├── divergence_chart.png
-        ├── yoy_change_finbert.png
-        ├── sentiment_shift_2025_2026.png
-        └── sentiment_velocity_heatmap.png
-
----
-
 ## 🗂️ Data Sources
 
 | Source | Details |
